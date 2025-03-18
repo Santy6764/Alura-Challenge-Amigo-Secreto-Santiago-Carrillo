@@ -1,2 +1,2 @@
 # Alura-Challenge-Amigo-Secreto-Santiago-Carrillo
-Descripción en proceso
+Divertido sorteador de nombres para reuniones de amigos
